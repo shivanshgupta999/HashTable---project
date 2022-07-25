@@ -5,9 +5,6 @@ using namespace std;
 Hash :: Hash(){
 	for(int i=0;i<tableSize;i++){
 		HashTable[i]=new item("empty","empty") ;
-	/*	HashTable[i]->name="empty";
-		HashTable[i]->drink="empty";
-		HashTable[i]->next=NULL;*/
 	}
 }
 
