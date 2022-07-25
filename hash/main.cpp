@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 	Hash HashObj;
 	string name="";
-/*	while(name!="exit"){
+	while(name!="exit"){
 			cout<<"choose";
 			cin>>name;
 			if(name=="addItem" && name!="exit"){
@@ -24,7 +24,7 @@ int main() {
 			PrintItemsInIndex(in);
 		}
 		HashObj.PrintTable();
-		}*/
+		}
 ///	HashObj.AddItem("adi","coca");
 //	HashObj.AddItem("adipjds","cocas");
 //	HashObj.AddItem("adi","cocad");
@@ -32,7 +32,7 @@ int main() {
 		HashObj.AddItem("sak","pur");
 	//	HashObj.RemoveItem("SSSSSSSSSSSS");
 		
-		HashObj.PrintTable();
+	//	HashObj.PrintTable();
 	/*	while(name!="exit"){
 			cout<<"Remove";
 			cin>>name;
