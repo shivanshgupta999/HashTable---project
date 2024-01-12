@@ -29,7 +29,7 @@ int main() {
 //	HashObj.AddItem("adipjds","cocas");
 //	HashObj.AddItem("adi","cocad");
 //	HashObj.AddItem("adiydsad","cocag");
-		HashObj.AddItem("sak","pur");
+		HashObj.AddItem("shiv","ansh");
 	//	HashObj.RemoveItem("SSSSSSSSSSSS");
 		
 	//	HashObj.PrintTable();
